@@ -65,7 +65,7 @@
     "*.js": "eslint --fix"
   },
   "dependencies": {
-    "marked": "^4.0.10",
+    "marked": "^18.0.5",
     "medium-zoom": "^1.0.6",
     "opencollective-postinstall": "^2.0.2",
     "prismjs": "^1.27.0",
